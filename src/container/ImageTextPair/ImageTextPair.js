@@ -38,11 +38,11 @@ function Text({title, text}) {
     </p>
 
 
-    <Link to="/About" className="relative mt-4 inline-flex items-center px-4 sm:px-8 py-2 sm:py-3">
-      <Button className="bg-gray-true-300" variant='shadow' size='lg'>
-        About Me
-      </Button>
-    </Link>
+    // <Link to="/About" className="relative mt-4 inline-flex items-center px-4 sm:px-8 py-2 sm:py-3">
+    //   <Button className="bg-gray-true-300" variant='shadow' size='lg'>
+    //     About Me
+    //   </Button>
+    // </Link>
 
   </div>
   )
