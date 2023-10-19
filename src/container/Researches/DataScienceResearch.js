@@ -21,7 +21,7 @@ export default function DataScienceResearch() {
             </p>
 
             <figure className="flex flex-col justify-center items-center my-3">
-                <img className="w-3/4" src="assets/images/DataScienceResearchImages/tanzania_map.png" alt="tanzania map"/>
+                <img className="w-3/4" src="assets/Images/DataScienceResearchImages/tanzania_map.png" alt="tanzania map"/>
                 <figcaption className="text-small">Fig. 1. Tanzania's water pumps and their condition.</figcaption>
             </figure>
 
@@ -54,7 +54,7 @@ export default function DataScienceResearch() {
             </p>
 
             <div className="flex flex-col justify-center items-center my-3">
-                <img className="w-3/4" src="assets/images/DataScienceResearchImages/Pipeline.png" alt="pipeline"/>
+                <img className="w-3/4" src="assets/Images/DataScienceResearchImages/Pipeline.png" alt="pipeline"/>
                 <p className="text-small">Fig. 2. Research workflow to predict pump's functionality.</p>
             </div>
     
@@ -66,7 +66,7 @@ export default function DataScienceResearch() {
             </p>
 
             <figure className="flex flex-col justify-center items-center my-3">
-                <img className="w-3/4" src="assets/images/DataScienceResearchImages/functionality.png" alt="functionality"/>
+                <img className="w-3/4" src="assets/Images/DataScienceResearchImages/functionality.png" alt="functionality"/>
                 <figcaption className="text-small">Fig. 3. Water pumps percentage at different status.</figcaption>
             </figure>
             
@@ -134,7 +134,7 @@ export default function DataScienceResearch() {
             </p>
             
             <figure className="flex flex-col justify-center items-center my-3">
-                <img src="assets/images/DataScienceResearchImages/bar_plot.png" alt="pumps age"/>
+                <img src="assets/Images/DataScienceResearchImages/bar_plot.png" alt="pumps age"/>
                 <figcaption className="text-small">Fig. 4. Pumps functionality by the age since the last recorded year.</figcaption>
             </figure>
 
@@ -159,7 +159,7 @@ export default function DataScienceResearch() {
             </p>
 
             <fig className="flex flex-col justify-center items-center my-3">
-                <img src="assets/images/DataScienceResearchImages/decision_plt.png" alt="decision plot"/>
+                <img src="assets/Images/DataScienceResearchImages/decision_plt.png" alt="decision plot"/>
                 <figcaption className="text-small">Fig. 5. Comparing the performance of the decision tree on different depths using the accuracy of both the train and test sets.</figcaption>
             </fig>
 
@@ -203,7 +203,7 @@ export default function DataScienceResearch() {
             </p>
 
             <figure className="flex flex-col justify-center items-center my-3">
-                <img src="assets/images/DataScienceResearchImages/confusion matrix.png" alt="confusion matrix"/>
+                <img src="assets/Images/DataScienceResearchImages/confusion matrix.png" alt="confusion matrix"/>
                 <figcaption className="text-small">Fig. 6. Confusion matrix of predicted labels by Multi-layer Perceptron classifies.</figcaption>
             </figure>
 
@@ -215,7 +215,7 @@ export default function DataScienceResearch() {
             </p>
 
             <figure className="flex flex-col justify-center items-center my-3">
-                <img src="assets/images/DataScienceResearchImages/predicted_bar_plot.png" alt="predicted bar plot"/>
+                <img src="assets/Images/DataScienceResearchImages/predicted_bar_plot.png" alt="predicted bar plot"/>
                 <figcaption className="text-small">Fig. 7. Bar plot of the predicted labels across different age groups.</figcaption>
             </figure>
 
@@ -240,7 +240,7 @@ export default function DataScienceResearch() {
             </p>
 
             <figure className="flex flex-col justify-center items-center my-3">
-                <img className="w-3/4" src="assets/images/DataScienceResearchImages/age_bar_plot.png" alt="age bar plot"/>
+                <img className="w-3/4" src="assets/Images/DataScienceResearchImages/age_bar_plot.png" alt="age bar plot"/>
                 <figcaption className="text-small">Fig. 8. Histogram of model's accuracy on the validation set when trained on age feature.</figcaption>
             </figure>
             
