@@ -38,7 +38,7 @@ export default function ComputerVision() {
                     <RightColumn 
                         modalTitle="Image Classification and Segmentation of Oxford Flower Dataset using Convolutional Neural Networks (CNNs)" 
                         modalBody={<ComputerVisionResearch />}
-                        path="assets/pdfs/Computer_Vision_coursework.pdf">
+                        path="public/assets/PDFs/Computer_Vision_coursework.pdf">
                         Image classification is defined as the process of labeling an image, 
                         those labels are categorized according to the information collected from the images. 
                         While Image segmentation is the task of dividing an image into parts or regions which are called segments, 
