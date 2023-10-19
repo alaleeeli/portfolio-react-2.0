@@ -102,13 +102,13 @@ export default function Home() {
             ))}
             </div>
 
-        <div className="flex justify-center mt-7">
-          <Link to="./Projects">
-            <Button className="bg-gray-true-300" radius='sm' size='md'>
-              More Projects
-            </Button>
-          </Link>
-        </div>
+        // <div className="flex justify-center mt-7">
+        //   <Link to="/Projects">
+        //     <Button className="bg-gray-true-300" radius='sm' size='md'>
+        //       More Projects
+        //     </Button>
+        //   </Link>
+        // </div>
 
         <div className="relative mt-5">
 
