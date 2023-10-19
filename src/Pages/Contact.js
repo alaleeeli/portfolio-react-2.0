@@ -18,7 +18,7 @@ export default function Contact() {
         duration: 0.5, 
       }}
     >
-      <HeroSection path="assets/images/IMG_2847.jpg" title="Contact us" />
+      <HeroSection path="assets/Images/IMG_2847.jpg" title="Contact us" />
       
       <section className="relative z-10 overflow-hidden bg-gray-true-100 py-10">
         <div className="container mx-auto">
