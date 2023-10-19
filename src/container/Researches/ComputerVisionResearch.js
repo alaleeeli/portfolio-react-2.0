@@ -36,7 +36,7 @@ export default function ComputerVisionResearch() {
             </p>
 
             <figure className="flex flex-col justify-center items-center my-3">
-                <img src="assets/images/ComputerVisionResearchImages/flower images.png" alt="flowers"/>
+                <img src="assets/Images/ComputerVisionResearchImages/flower images.png" alt="flowers"/>
                 <figcaption className="text-small">Fig. 1. A selection of flower images sourced from the database provided by Oxford [6].</figcaption>
             </figure>
             
@@ -61,7 +61,7 @@ export default function ComputerVisionResearch() {
             </p>
 
             <figure className="flex flex-col justify-center items-center my-3">
-                <img src="assets/images/ComputerVisionResearchImages/image sizes.png" alt="sizes"/>
+                <img src="assets/Images/ComputerVisionResearchImages/image sizes.png" alt="sizes"/>
                 <figcaption className="text-small">Fig. 2. Sizes of selected images from the dataset.</figcaption>
             </figure>
 
@@ -87,7 +87,7 @@ export default function ComputerVisionResearch() {
             </p>
 
             <figure className="flex flex-col justify-center items-center my-3">
-                <img src="assets/images/ComputerVisionResearchImages/last layers.png" alt="last layers"/>
+                <img src="assets/Images/ComputerVisionResearchImages/last layers.png" alt="last layers"/>
                 <figcaption className="text-small">Fig. 3. Last layers of Darknet-53 after being replaced.</figcaption>
             </figure>
 
@@ -107,7 +107,7 @@ export default function ComputerVisionResearch() {
             </p>
 
             <figure className="flex flex-col justify-center items-center my-3">
-                <img src="assets/images/ComputerVisionResearchImages/example image.png" alt="example segmentation"/>
+                <img src="assets/Images/ComputerVisionResearchImages/example image.png" alt="example segmentation"/>
                 <figcaption className="text-small">Fig. 4. A daffodil image with its segmentation ground truth labels.</figcaption>
             </figure>
             
@@ -134,7 +134,7 @@ export default function ComputerVisionResearch() {
             </p>
 
             <figure className="flex flex-col justify-center items-center my-3">
-                <img src="assets/images/ComputerVisionResearchImages/untitled.png" alt="segmentation network"/>
+                <img src="assets/Images/ComputerVisionResearchImages/untitled.png" alt="segmentation network"/>
                 <figcaption className="text-small">Fig. 5. Architecture of the semantic segmentation network.</figcaption>
             </figure>
 
@@ -146,7 +146,7 @@ export default function ComputerVisionResearch() {
             </p>
 
             <figure className="flex flex-col justify-center items-center my-3">
-                <img src="assets/images/ComputerVisionResearchImages/prediction.png" alt="classification result"/>
+                <img src="assets/Images/ComputerVisionResearchImages/prediction.png" alt="classification result"/>
                 <figcaption className="text-small">Fig. 6. Classification result of the retrained network.</figcaption>
             </figure>
 
@@ -158,7 +158,7 @@ export default function ComputerVisionResearch() {
             </p>
 
             <figure className="flex flex-col justify-center items-center my-3">
-                <img src="assets/images/ComputerVisionResearchImages/confusion matrix.png" alt="classification confusion matrix" className="w-3/4"/>
+                <img src="assets/Images/ComputerVisionResearchImages/confusion matrix.png" alt="classification confusion matrix" className="w-3/4"/>
                 <figcaption className="text-small">Fig. 7. Confusion matrix of the classification network.</figcaption>
             </figure>
 
@@ -172,7 +172,7 @@ export default function ComputerVisionResearch() {
             </p>
 
             <div className="flex flex-col justify-center items-center my-3">
-                <img src="assets/images/ComputerVisionResearchImages/confusion matrix seg.png" alt="segmentation confusion matrix"/>
+                <img src="assets/Images/ComputerVisionResearchImages/confusion matrix seg.png" alt="segmentation confusion matrix"/>
                 <p className="text-small">Fig. 8. Confusion matrix of semantic segmentation network.</p>
             </div>
 
@@ -184,7 +184,7 @@ export default function ComputerVisionResearch() {
             </p>
 
             <figure className="flex flex-col justify-center items-center my-3">
-                <img src="assets/images/ComputerVisionResearchImages/new predicted.png" alt="segmentation result"/>
+                <img src="assets/Images/ComputerVisionResearchImages/new predicted.png" alt="segmentation result"/>
                 <figcaption className="text-small">Fig. 9. Comparing the segmentation results on a validation image.</figcaption>
             </figure>
 
