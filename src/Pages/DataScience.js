@@ -37,7 +37,7 @@ export default function DataScience() {
                     <RightColumn 
                         modalTitle="Exploring machine learning models to predict the functionality of water pumps" 
                         modalBody={<DataScienceResearch />}
-                        path="assets/pdfs/IEEE_Conference_Template__1_.pdf">
+                        path="public/assets/PDFs/IEEE_Conference_Template__1_.pdf">
         
                         This research aims to focus on identifying the important features, in predicting the status of a pump and investigate 
                         the best-performing classification models by training them on the data and features provided to predict the labels of 
