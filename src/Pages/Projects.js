@@ -7,7 +7,7 @@ const projectsCards = [
   {
     subtitle: "Machine learning",
     title: "Predicting Functionality of Water Pumps",
-    image:"assets/Images/CardImages/machine learning.jpeg",
+    image:"assets/Images/CardImages/Machine learning.jpeg",
     page: "/DataScience",
   } ,
   {
