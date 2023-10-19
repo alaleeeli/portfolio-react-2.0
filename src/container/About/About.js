@@ -15,7 +15,7 @@ export default function About() {
             During my academic journey, I had the chance to experience different areas of computer science, and found myself more into
             web development, machine learning, and data analysis.
           </p>
-          <DownloadButton path="public/assets/PDFs/Rashed Alaleeli Resume.pdf" title="Download CV" />
+          <DownloadButton path="assets/PDFs/Rashed Alaleeli Resume.pdf" title="Download CV" />
         </div>
       </div>
     </div>
