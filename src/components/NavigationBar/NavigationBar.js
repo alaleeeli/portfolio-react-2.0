@@ -37,7 +37,8 @@ export default function NavigationBar() {
             <NavLink to="/" onToggleMenu={toggleMenu}>Home.</NavLink>
             <NavLink to="/Projects" onToggleMenu={toggleMenu}>Projects.</NavLink>
             <NavLink to="/About" onToggleMenu={toggleMenu}>About.</NavLink>
-            <NavLink to="/Contact" onToggleMenu={toggleMenu} button={true} icon={icon}>Contact me</NavLink>
+            // <NavLink to="/Contact" onToggleMenu={toggleMenu} button={true} icon={icon}>Contact me</NavLink>
+            <NavLink to="/Contact" onToggleMenu={toggleMenu}>Contact.</NavLink>
           </motion.ul>
         </motion.div> 
   
