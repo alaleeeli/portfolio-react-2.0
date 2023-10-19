@@ -14,7 +14,7 @@ export default function ProfileCard() {
     <div className="w-80 p-2 bg-white rounded-xl shadow-lg md:mx-0 mx-auto">
       <div className="flex">
         <div id="image-background" className="relative flex h-[200px] w-screen items-center justify-center before:absolute before:h-[150px] before:w-[120px] before:rounded-full before:bg-gradient-to-b before:from-neutral-400 before:via-stone-500 before:to-stone-700">
-          <img className="z-10 h-[120px] mb-5 " src="assets/images/memoji.PNG" type="image" alt="" />
+          <img className="z-10 h-[120px] mb-5 " src="public/assets/Images/memoji.PNG" type="image" alt="" />
         </div>
       </div>
 
